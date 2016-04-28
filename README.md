@@ -10,7 +10,6 @@
 ![alt tag](pictures/-etc-openldap-9.png)
 ![alt tag](pictures/-etc-openldap-10.png)
 ![alt tag](pictures/-etc-openldap-11.png)
-![alt tag](pictures/-etc-openldap-12.png)
 ![alt tag](pictures/-etc-openldap-13.png)
 ![alt tag](pictures/-etc-openldap-14.png)
 ![alt tag](pictures/-phpLDAPadmin0.png)

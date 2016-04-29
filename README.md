@@ -10,3 +10,5 @@
 ![alt tag](pictures/j_ldap.png)
 ![alt tag](pictures/jenkins_user1.png)
 ![alt tag](pictures/jenkins_user2.png)
+![alt tag](pictures/j_u_1.png)
+![alt tag](pictures/j_u_2.png)

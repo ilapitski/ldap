@@ -1,17 +1,9 @@
 # ldap
 
 
-![alt tag](pictures/audit_log.png)
-![alt tag](pictures/pp_ldif.png)
-![alt tag](pictures/pp_ldif_add.png)
-![alt tag](pictures/jg_ldif.png)
-![alt tag](pictures/jg_ldif_add.png)
-![alt tag](pictures/member_of.png)
-![alt tag](pictures/ldap_php.png)
-![alt tag](pictures/j_ldap.png)
-![alt tag](pictures/jenkins_user1.png)
-![alt tag](pictures/jenkins_user2.png)
-![alt tag](pictures/roles.png)
-![alt tag](pictures/roles_assign.png)
-![alt tag](pictures/j_u_1.png)
-![alt tag](pictures/j_u_2.png)
+![alt tag](pictures/admin-user3.png)
+![alt tag](pictures/ldap-sudoers.png)
+![alt tag](pictures/ldap-wheel.png)
+![alt tag](pictures/ssh-keygen-user4.png)
+![alt tag](pictures/ssh-user4-ft.png)
+![alt tag](pictures/sudo-user3.png)
